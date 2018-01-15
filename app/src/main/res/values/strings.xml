@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeCook</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="repassword">Repassword</string>
+    <string name="already_have_anaccount_login">Already have anaccount ? Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">login</string>
+    <string name="create_new_account_sign_up">Create new account ? Sign Up</string>
+</resources>
